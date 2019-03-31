@@ -1,0 +1,17 @@
+Hello and thank you for purchasing Low Poly Islands Package.
+
+NOTE: You need to have Unity Standard Assets/Environment imported to your project in order for the water prefabs to work properly. 
+
+There are 43 fbx files made 67 to prefabs.
+
+Most of the prefabs are set to static.
+
+Models have separate parts for animation kept in mind.
+
+Texture is 512*512 png
+
+Water used for the screenshots is from Unitys Standard Assets. 
+Environtment/Water/Prefabs/WaterProDaytime.
+
+For questions you can contact me at:
+a.kolmonen@gmail.com

@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Low Poly Islands/Scenes/Temple 1.unity
+  isLoaded: 1
+  isActive: 1
