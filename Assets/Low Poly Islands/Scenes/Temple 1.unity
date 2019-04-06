@@ -8945,6 +8945,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: water
       objectReference: {fileID: 0}
+    - target: {fileID: 702909367065359493, guid: 890a1ade718015a46976127b27328428,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 702909367065359489, guid: 890a1ade718015a46976127b27328428,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -9004,6 +9009,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.y
       value: 0.02
+      objectReference: {fileID: 0}
+    - target: {fileID: 702909367065359489, guid: 890a1ade718015a46976127b27328428,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 702909367065359489, guid: 890a1ade718015a46976127b27328428,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 890a1ade718015a46976127b27328428, type: 3}
@@ -9096,7 +9111,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 4538c4388ca7bca4d88d83567a808460, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 4538c4388ca7bca4d88d83567a808460, type: 3}
       propertyPath: m_LocalPosition.x
