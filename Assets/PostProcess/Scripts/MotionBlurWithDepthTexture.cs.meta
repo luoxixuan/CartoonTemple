@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d59f225b568796f479856afcf410be31
+timeCreated: 1537257525
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - motionBlurShader: {fileID: 4800000, guid: 37ae9b43f6532ad4089caf2b5e3c2895, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

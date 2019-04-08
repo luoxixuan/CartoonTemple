@@ -4708,6 +4708,9 @@ GameObject:
   - component: {fileID: 1026524575}
   - component: {fileID: 1026524574}
   - component: {fileID: 1026524573}
+  - component: {fileID: 1026524579}
+  - component: {fileID: 1026524580}
+  - component: {fileID: 1026524581}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -4795,6 +4798,56 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1026524579
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1026524572}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aae229e75eb24cd4b93200e61316bf39, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bloomShader: {fileID: 4800000, guid: 3b1840633abe93244b78da48b362c3d1, type: 3}
+  iterations: 3
+  blurSpread: 0.6
+  downSample: 2
+  luminanceThreshold: 0.6
+--- !u!114 &1026524580
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1026524572}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 857d280ac8af8624ca26b1f40dde8cd6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gaussianBlurShader: {fileID: 4800000, guid: cdfaa3ac434d0f54881de16be8da0636, type: 3}
+  iterations: 3
+  blurSpread: 0.5
+  downSample: 1
+--- !u!114 &1026524581
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1026524572}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3ded534756209240a85f2d573dfece3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fogShader: {fileID: 4800000, guid: 59abb94fc97efe14091c475f8702dc8d, type: 3}
+  fogDensity: 1.83
+  fogColor: {r: 1, g: 1, b: 1, a: 1}
+  fogStart: 0
+  fogEnd: 2
 --- !u!1001 &1027475208
 PrefabInstance:
   m_ObjectHideFlags: 0

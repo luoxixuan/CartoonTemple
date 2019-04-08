@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ecca257d4860dec49bd49aa8e0d85beb
+timeCreated: 1537257525
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - edgeDetectShader: {fileID: 4800000, guid: 77d951a3c3d5348429c4c1362baddb11, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
