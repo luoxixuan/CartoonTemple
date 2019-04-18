@@ -1,13 +1,8 @@
 fileFormatVersion: 2
-<<<<<<< HEAD:Assets/LowPolyIslands/Prefabs.meta
-guid: e987454c455ed9c469993fcaae0a242c
-=======
-guid: 5d3fb8e05edcf4b41aef584ca1b0d06f
->>>>>>> 增加摄像机和角色测试:Assets/Common/CrossPlatformInput/Prefabs.meta
+guid: a7f69f7e082cf594fb10e018dfc70a4f
 folderAsset: yes
-timeCreated: 1544207649
-licenseType: Store
 DefaultImporter:
+  externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 

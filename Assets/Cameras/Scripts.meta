@@ -1,10 +1,8 @@
 fileFormatVersion: 2
-<<<<<<< HEAD:Assets/Clothes/Scripts.meta
-guid: b3ba1eb6ee9ed184a90cb329a952169d
-=======
-guid: e7b22774d57de9f4eb961b3ff68ed80a
->>>>>>> 增加摄像机和角色测试:Assets/Cameras/Scripts.meta
+guid: 9595e2fc9f187854789e0b9fc6e1f75a
 folderAsset: yes
 DefaultImporter:
+  externalObjects: {}
   userData: 
   assetBundleName: 
+  assetBundleVariant: 
