@@ -5,7 +5,7 @@
 
 > 2019.4.9
 
-![too young too simle, sometimes naive](https://github.com/luoxixuan/CartoonTemple/blob/develop/Temple.png)
+![too young too simle, sometimes naive](https://raw.githubusercontent.com/luoxixuan/CartoonTemple/master/Temple.png)
 
 - [ ] **前期技术点预研**
     - [ ] 全屏后处理，黑白，眨眼等效果
